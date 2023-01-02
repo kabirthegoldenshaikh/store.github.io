@@ -1,0 +1,309 @@
+body{
+background-color: black;
+}
+
+
+
+
+.one{
+
+    width: 30.1%; height: 40px; position: absolute; top: 0%; left: 0%; background-color: gold; font-size: 17px;
+}
+
+#one{
+    text-decoration: none; color: white; background-color: black;
+}
+
+#two{
+    text-decoration: none; color: white; background-color: black;
+}
+
+#three{
+    text-decoration: none; color: white; background-color: black;
+}
+
+
+#hr2{
+    background-color: gold; position: absolute; top: 20px; right: 10%; height: 10px; border-color: gold;
+}
+
+
+.onetwo{
+    width: 10%; height: 40px; position: absolute; top: 0%; right: 0%; background-color:gold; font-size: 17px;
+}
+
+#onetwo{ 
+     text-decoration: none; color: white; background-color: black;
+}
+
+
+
+
+
+.two{width: 45%; height: 42%; position: absolute;  top: 40Px; right: 0%; border-color: black;
+
+}
+
+
+.three{
+    width: 55%; height: 52.7%;  color: aliceblue; font-size:21px ; position: absolute; top: 40px; left: 0%; background-color: black;
+}
+
+
+
+.four{
+    width: 45%; height: 10%;   right: 0%; border-color: black;  position: absolute;  top: 48%; color: aliceblue; font-size: 35px;
+     background-color: black; color: white;
+}
+
+
+#hr1{background-color: gold; position: absolute; top: 57%; left: 0; height: 10px; 
+}
+
+#hr5{background-color: gold; position: absolute; top: 57%; right: 0; height: 10px;  width: 47.3%;
+}
+
+
+.div1{
+    background-color: black; position: absolute; top: 62%; height: 60%; width:23%; left: 1%;
+}
+#poster1{
+    width: 100%; height: 100%;
+}
+
+
+.div2 {
+    background-color: white; position: absolute; top: 62%; right: 51%; height: 60%; width:23.4%;
+}
+#poster2{
+    width: 100%; height: 100%;
+}
+
+
+.div3 {
+    background-color: white; position: absolute; top: 62%; right: 25.8%; height: 60%; width:23.%;
+}
+#poster3{
+    width: 100%; height: 100%;
+}
+
+
+.div4{
+    background-color: white; position: absolute; top: 62%; right: 1%; height: 60%; width:23%;
+}
+#poster4{
+    width: 100%; height: 100%;
+}
+
+
+
+
+
+.hr3{
+    background-color: gold; position: absolute; top: 123%; width: 47.3%; height: 10px; right: 0%;
+}
+
+.hr4{
+    background-color: gold; position: absolute; top: 123%; width: 49%; height: 10px; left: 0%;
+}
+
+
+.marquee1{
+    background-color: black; position: absolute; top: 128%; width: 100%; height: 60%;
+}
+
+marquee{
+    height: 100%; width: 100%; 
+}
+
+#image1{
+    height: 100%; width: 20%;
+}
+
+#image2{
+    height: 100%; width: 20%;
+}
+
+#image3{
+    height: 100%; width: 20%;
+}
+
+#image4{
+    height: 100%; width: 20%;
+}
+
+#image5{
+    height: 100%; width: 20%;
+}
+
+
+#image6{
+    height: 100%; width: 20%;
+}
+
+#image7{
+    height: 100%; width: 20%;
+}
+
+#image8{
+    height: 100%; width: 20%;
+}
+
+#image9{
+    height: 100%; width: 20%;
+}
+
+#image10{
+    height: 100%; width: 20%;
+}
+
+#image11{
+    height: 100%; width: 20%;
+}
+
+#image12{
+    height: 100%; width: 20%;
+}
+
+#image13{
+    height: 100%; width: 20%;
+}
+
+#image14{
+    height: 100%; width: 20%;
+}
+
+#image15{
+    height: 100%; width: 20%;
+}
+
+#image16{
+    height: 100%; width: 20%;
+}
+
+#image17{
+    height: 100%; width: 20%;
+}
+
+#image18{
+    height: 100%; width: 20%;
+}
+
+#image19{
+    height: 100%; width: 20%;
+}
+
+#image20{
+    height: 100%; width: 20%;
+}
+
+#image21{
+    height: 100%; width: 20%;
+}
+
+#image22{
+    height: 100%; width: 20%;
+}
+
+#image23{
+    height: 100%; width: 20%;
+}
+
+#image24{
+    height: 100%; width: 20%;
+}
+
+#image25{
+    height: 100%; width: 20%;
+}
+
+
+#image26{
+    height: 100%; width: 20%;
+}
+
+#image27{
+    height: 100%; width: 20%;
+}
+
+#image28{
+    height: 100%; width: 20%;
+}
+
+#image29{
+    height: 100%; width: 20%;
+}
+
+#image30{
+    height: 100%; width: 20%;
+}
+
+
+#image31{
+    height: 100%; width: 20%;
+}
+
+#image32{
+    height: 100%; width: 20%;
+}
+
+#image33{
+    height: 100%; width: 20%;
+}
+
+#image34{
+    height: 100%; width: 20%;
+}
+
+#image35{
+    height: 100%; width: 20%;
+}
+
+#image36{
+    height: 100%; width: 20%;
+}
+
+#image37{
+    height: 100%; width: 20%;
+}
+
+#image38{
+    height: 100%; width: 20%;
+}
+
+#image39{
+    height: 100%; width: 20%;
+}
+
+#image40{
+    height: 100%; width: 20%;
+}
+
+
+
+
+
+.div10{
+    background-color: gold; position: absolute; top: 189%; width: 100%; height: 7%; font-size: 41px; left: 0%; right: 0%;
+}
+
+#view{
+    text-decoration: none; color: black;
+}
+
+.div11{
+    background-color: gold; position: absolute; top: 197%; width: 100%; height: 50%; left: 0%;
+}
+
+#size1{
+    font-size: 40px;
+}
+
+#size2{
+    font-size: 25px;
+}
+
+
+#on1{
+font-size: 13px; 
+}
